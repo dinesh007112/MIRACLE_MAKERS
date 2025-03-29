@@ -1,0 +1,554 @@
+{
+  "exercises": [
+    {
+      "name": "Advanced resistance band exercises (4 sets of 12 reps)",
+      "image_file": "advanced_resistance_band_exercises_4_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Advanced resistance band exercises (5 sets of 15 reps)",
+      "image_file": "advanced_resistance_band_exercises_5_sets_of_15_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Advanced resistance exercises (5 sets of 12 reps)",
+      "image_file": "advanced_resistance_exercises_5_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Advanced resistance exercises (5 sets of 15 reps)",
+      "image_file": "advanced_resistance_exercises_5_sets_of_15_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Advanced strength training (5 sets of 12 reps)",
+      "image_file": "advanced_strength_training_5_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Ankle Circles: Rotate ankles in circles (3 sets of 10 reps)",
+      "image_file": "ankle_circles_rotate_ankles_in_circles_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Ankle Pumps: Move ankles up and down while seated (3 sets of 15 reps)",
+      "image_file": "ankle_pumps_move_ankles_up_and_down_while_seated_3_sets_of_15_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Arm curls with light weights (3 sets of 12 reps)",
+      "image_file": "arm_curls_with_light_weights_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Assisted standing exercises (3 sets of 5 reps)",
+      "image_file": "assisted_standing_exercises_3_sets_of_5_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Audio-guided stretching (15-20 minutes)",
+      "image_file": "audio_guided_stretching_15_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Balance and stability exercises (20-30 minutes)",
+      "image_file": "balance_and_stability_exercises_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Balance exercises (15 minutes)",
+      "image_file": "balance_exercises_15_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Balance exercises with support (15 minutes)",
+      "image_file": "balance_exercises_with_support_15_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Balance exercises with support (15-20 minutes)",
+      "image_file": "balance_exercises_with_support_15_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Balance training with assistance (15 minutes)",
+      "image_file": "balance_training_with_assistance_15_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Balance training with visual guidance (15 minutes)",
+      "image_file": "balance_training_with_visual_guidance_15_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Basic strength exercises (3 sets of 8 reps)",
+      "image_file": "basic_strength_exercises_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Basic stretching routines (15 minutes)",
+      "image_file": "basic_stretching_routines_15_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Bodyweight exercises (3 sets of 8 reps)",
+      "image_file": "bodyweight_exercises_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Bodyweight exercises with support (3 sets of 8 reps)",
+      "image_file": "bodyweight_exercises_with_support_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Bodyweight exercises with visual cues (3 sets of 8 reps)",
+      "image_file": "bodyweight_exercises_with_visual_cues_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Breathing exercises (5-10 minutes)",
+      "image_file": "breathing_exercises_5_10_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Bridge Exercise: Lift hips while lying on back (3 sets of 10 reps)",
+      "image_file": "bridge_exercise_lift_hips_while_lying_on_back_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Calf Raises: Raise heels while standing (3 sets of 10 reps)",
+      "image_file": "calf_raises_raise_heels_while_standing_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Cat-Cow Stretch: Gently arch and round your back while seated or on all fours (3 sets of 10 reps)",
+      "image_file": "cat_cow_stretch_gently_arch_and_round_your_back_while_seated_or_on_all_fours_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Chair push-ups (3 sets of 8 reps)",
+      "image_file": "chair_push_ups_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Chair yoga stretches (15-20 minutes)",
+      "image_file": "chair_yoga_stretches_15_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Child's Pose: Kneel and stretch arms forward (hold for 30 seconds)",
+      "image_file": "child's_pose_kneel_and_stretch_arms_forward_hold_for_30_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Chin Tucks: Tuck chin to chest (3 sets of 10 reps)",
+      "image_file": "chin_tucks_tuck_chin_to_chest_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Clamshells: Lift top knee while lying on side (3 sets of 12 reps)",
+      "image_file": "clamshells_lift_top_knee_while_lying_on_side_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Complex movement patterns (30 minutes)",
+      "image_file": "complex_movement_patterns_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Core exercises (5 sets of 15 reps)",
+      "image_file": "core_exercises_5_sets_of_15_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Core exercises with demonstrations (3 sets of 10 reps)",
+      "image_file": "core_exercises_with_demonstrations_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Core exercises with verbal instructions (3 sets of 10 reps)",
+      "image_file": "core_exercises_with_verbal_instructions_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Core strengthening (3 sets of 8 reps)",
+      "image_file": "core_strengthening_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Core strengthening (5 sets of 15 reps)",
+      "image_file": "core_strengthening_5_sets_of_15_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Core strengthening exercises (3 sets of 10 reps)",
+      "image_file": "core_strengthening_exercises_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Core strengthening exercises (4 sets of 12 reps)",
+      "image_file": "core_strengthening_exercises_4_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Core strengthening exercises (5 sets of 15 reps)",
+      "image_file": "core_strengthening_exercises_5_sets_of_15_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Cycling with visual feedback (15-20 minutes)",
+      "image_file": "cycling_with_visual_feedback_15_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Dance exercises with visual guidance (20 minutes)",
+      "image_file": "dance_exercises_with_visual_guidance_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Doorway Chest Stretch: Stretch chest and shoulders (hold 30 seconds)",
+      "image_file": "doorway_chest_stretch_stretch_chest_and_shoulders_hold_30_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Dynamic balance exercises (15-20 minutes)",
+      "image_file": "dynamic_balance_exercises_15_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Dynamic balance exercises (20-30 minutes)",
+      "image_file": "dynamic_balance_exercises_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Forearm Planks: Hold position on elbows (3 sets of 20 seconds)",
+      "image_file": "forearm_planks_hold_position_on_elbows_3_sets_of_20_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Gardening activities (30-45 minutes)",
+      "image_file": "gardening_activities_30_45_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Gentle Ankle Stretches: Hold each position 15-20 seconds",
+      "image_file": "gentle_ankle_stretches_hold_each_position_15_20_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Gentle Back Extensions: Lie on stomach and lift upper body slightly (3 sets of 8 reps)",
+      "image_file": "gentle_back_extensions_lie_on_stomach_and_lift_upper_body_slightly_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Gentle Hip Circles: Rotate hips while seated (3 sets of 8 reps)",
+      "image_file": "gentle_hip_circles_rotate_hips_while_seated_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Gentle Neck Stretches: Hold each position 15-20 seconds",
+      "image_file": "gentle_neck_stretches_hold_each_position_15_20_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Gentle Wrist Stretches: Hold each position 15-20 seconds",
+      "image_file": "gentle_wrist_stretches_hold_each_position_15_20_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Gentle seated leg lifts (3 sets of 10 reps)",
+      "image_file": "gentle_seated_leg_lifts_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Grip Strengthening: Squeeze stress ball (3 sets of 12 reps)",
+      "image_file": "grip_strengthening_squeeze_stress_ball_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "High-intensity interval training (30 minutes)",
+      "image_file": "high_intensity_interval_training_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "High-intensity interval training with modifications (20-30 minutes)",
+      "image_file": "high_intensity_interval_training_with_modifications_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Hip Flexor Stretch: Stretch hip flexors (hold 30 seconds)",
+      "image_file": "hip_flexor_stretch_stretch_hip_flexors_hold_30_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Internal/External Rotations: Rotate arms with resistance band (3 sets of 12 reps)",
+      "image_file": "internal/external_rotations_rotate_arms_with_resistance_band_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Leg Raises: Raise one leg at a time while lying on back (3 sets of 10 reps)",
+      "image_file": "leg_raises_raise_one_leg_at_a_time_while_lying_on_back_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Modified planks (3 sets of 30 seconds)",
+      "image_file": "modified_planks_3_sets_of_30_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Modified planks (4 sets of 45 seconds)",
+      "image_file": "modified_planks_4_sets_of_45_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Modified push-ups from chair (4 sets of 10 reps)",
+      "image_file": "modified_push_ups_from_chair_4_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Music-based exercises (20-30 minutes)",
+      "image_file": "music_based_exercises_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Neck Rotations: Turn head slowly side to side (3 sets of 8 reps)",
+      "image_file": "neck_rotations_turn_head_slowly_side_to_side_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Neck Tilts: Tilt head toward each shoulder (3 sets of 10 reps)",
+      "image_file": "neck_tilts_tilt_head_toward_each_shoulder_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Pelvic Tilts: Tilt pelvis forward and backward while lying on back (3 sets of 10 reps)",
+      "image_file": "pelvic_tilts_tilt_pelvis_forward_and_backward_while_lying_on_back_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Quad Sets: Tighten thigh muscles while seated (3 sets of 10 reps, hold 5 seconds)",
+      "image_file": "quad_sets_tighten_thigh_muscles_while_seated_3_sets_of_10_reps,_hold_5_seconds.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Range of motion exercises (10-15 minutes)",
+      "image_file": "range_of_motion_exercises_10_15_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Resistance band exercises (3 sets of 12 reps)",
+      "image_file": "resistance_band_exercises_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Resistance band exercises (4 sets of 15 reps)",
+      "image_file": "resistance_band_exercises_4_sets_of_15_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Resistance band exercises with guidance (3 sets of 10 reps)",
+      "image_file": "resistance_band_exercises_with_guidance_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Resistance exercises with demonstrations (3 sets of 10 reps)",
+      "image_file": "resistance_exercises_with_demonstrations_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Scapular Squeezes: Squeeze shoulder blades together (3 sets of 10 reps)",
+      "image_file": "scapular_squeezes_squeeze_shoulder_blades_together_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated Ankle Dorsiflexion: Lift feet toward shins (3 sets of 12 reps)",
+      "image_file": "seated_ankle_dorsiflexion_lift_feet_toward_shins_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated Forward Fold: Slowly hinge at hips and fold forward while seated (3 sets of 10 reps)",
+      "image_file": "seated_forward_fold_slowly_hinge_at_hips_and_fold_forward_while_seated_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated Hip Abduction: Lift leg to side while seated (3 sets of 12 reps)",
+      "image_file": "seated_hip_abduction_lift_leg_to_side_while_seated_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated Marching: Lift knees alternately while seated (3 sets of 20 reps)",
+      "image_file": "seated_marching_lift_knees_alternately_while_seated_3_sets_of_20_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated arm exercises with light weights (3 sets of 12 reps)",
+      "image_file": "seated_arm_exercises_with_light_weights_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated exercises (20 minutes)",
+      "image_file": "seated_exercises_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated leg extensions (3 sets of 10 reps)",
+      "image_file": "seated_leg_extensions_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated resistance band exercises (3 sets of 12 reps)",
+      "image_file": "seated_resistance_band_exercises_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated shoulder presses (3 sets of 10 reps)",
+      "image_file": "seated_shoulder_presses_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Seated strength exercises with verbal cues (3 sets of 12 reps)",
+      "image_file": "seated_strength_exercises_with_verbal_cues_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Shoulder Rolls: Roll shoulders forward and backward (3 sets of 10 reps)",
+      "image_file": "shoulder_rolls_roll_shoulders_forward_and_backward_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Shoulder Shrugs: Raise and lower shoulders (3 sets of 12 reps)",
+      "image_file": "shoulder_shrugs_raise_and_lower_shoulders_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Simple dance movements (15-20 minutes)",
+      "image_file": "simple_dance_movements_15_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Simple repetitive exercises (15-20 minutes)",
+      "image_file": "simple_repetitive_exercises_15_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Simple resistance training (3 sets of 10 reps)",
+      "image_file": "simple_resistance_training_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Stationary cycling with verbal guidance (15-20 minutes)",
+      "image_file": "stationary_cycling_with_verbal_guidance_15_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Straight Leg Raises: Extend and hold one leg at a time (3 sets of 10 reps)",
+      "image_file": "straight_leg_raises_extend_and_hold_one_leg_at_a_time_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Strength training with adaptive equipment (4 sets of 10 reps)",
+      "image_file": "strength_training_with_adaptive_equipment_4_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Strength training with visual aids (3 sets of 12 reps)",
+      "image_file": "strength_training_with_visual_aids_3_sets_of_12_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Stretching (15 minutes)",
+      "image_file": "stretching_15_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Stretching with guidance (15 minutes)",
+      "image_file": "stretching_with_guidance_15_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Stretching with visual aids (15 minutes)",
+      "image_file": "stretching_with_visual_aids_15_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Toe Taps: Point and flex feet (3 sets of 15 reps)",
+      "image_file": "toe_taps_point_and_flex_feet_3_sets_of_15_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Transfer training (15-20 minutes)",
+      "image_file": "transfer_training_15_20_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Visual demonstration of exercises (20-30 minutes)",
+      "image_file": "visual_demonstration_of_exercises_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Walking in a familiar environment (20-30 minutes)",
+      "image_file": "walking_in_a_familiar_environment_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Walking with guide (20-30 minutes)",
+      "image_file": "walking_with_guide_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Walking with visual cues (20-30 minutes)",
+      "image_file": "walking_with_visual_cues_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Wall Angels: Move arms up and down against wall (3 sets of 8 reps)",
+      "image_file": "wall_angels_move_arms_up_and_down_against_wall_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Water aerobics (30-45 minutes)",
+      "image_file": "water_aerobics_30_45_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Water aerobics (45-60 minutes)",
+      "image_file": "water_aerobics_45_60_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Wheelchair sports (30-45 minutes)",
+      "image_file": "wheelchair_sports_30_45_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Wheelchair sports (45-60 minutes)",
+      "image_file": "wheelchair_sports_45_60_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Wrist Circles: Rotate wrists in circles (3 sets of 8 reps)",
+      "image_file": "wrist_circles_rotate_wrists_in_circles_3_sets_of_8_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Wrist Flexor/Extensor Stretches: Stretch wrist in both directions (3 sets of 10 reps)",
+      "image_file": "wrist_flexor/extensor_stretches_stretch_wrist_in_both_directions_3_sets_of_10_reps.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Yoga with verbal cues (20-30 minutes)",
+      "image_file": "yoga_with_verbal_cues_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Yoga with visual cues (20-30 minutes)",
+      "image_file": "yoga_with_visual_cues_20_30_minutes.jpg",
+      "status": "missing"
+    },
+    {
+      "name": "Placeholder Image",
+      "image_file": "placeholder.jpg",
+      "status": "missing"
+    }
+  ]
+}
